@@ -1,2 +1,6 @@
-.idea
+target/
+.project/
+.idea/
 *.iml
+/nbproject/
+/ajcore.*.txt
