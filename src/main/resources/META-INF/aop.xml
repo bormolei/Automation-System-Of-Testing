@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aspectj>
+    <aspects>
+        <aspect name="ru.sbtqa.tag.pagefactory.aspects.ClickAspect"/>
+        <aspect name="ru.sbtqa.tag.pagefactory.aspects.SendKeysAspect"/>
+        <aspect name="ru.sbtqa.tag.pagefactory.aspects.DataAspect"/>
+        <aspect name="ru.sbtqa.tag.pagefactory.aspects.ExceptionAspect"/>
+    </aspects>
+    <weaver options="-Xset:weaveJavaxPackages=true -Xset:weaveJavaPackages=true">
+        <include within="ru.sbtqa.tag..*"/>
+    </weaver>
+</aspectj>
