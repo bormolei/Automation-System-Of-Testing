@@ -15,26 +15,6 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
     </license>
   </licenses>
-  <developers>
-    <developer>
-      <name>Viktor Sidochenko</name>
-      <email>viktor.sidochenko@gmail.com</email>
-      <organization>sbtqa</organization>
-      <organizationUrl>http://github.com/sbtqa</organizationUrl>
-    </developer>
-    <developer>
-      <name>Konstantin Maltsev</name>
-      <email>mkypers@gmail.com</email>
-      <organization>sbtqa</organization>
-      <organizationUrl>http://github.com/sbtqa</organizationUrl>
-    </developer>
-    <developer>
-      <name>Alexander Anikeev</name>
-      <email>iamanikeev@gmail.com</email>
-      <organization>sbtqa</organization>
-      <organizationUrl>http://github.com/sbtqa</organizationUrl>
-    </developer>
-  </developers>
   <scm>
     <connection>scm:git:git://github.com/sbtqa/page-factory</connection>
     <developerConnection>scm:git:ssh://github.com:sbtqa/page-factory.git</developerConnection>
